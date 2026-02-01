@@ -1,2 +1,2 @@
 # whatsapp
-To install whatapp and n8n in a windows machine locally
+To install evolution-api, n8n and python script option into a windows machine locally
